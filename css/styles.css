@@ -22,7 +22,9 @@
 }
 
 .main-img{
+  background-image: url(../images/main.png);
   width: 100%;
-  background-image: url('images/screen_1.png');
-  height: 100vh;
+  height: 610px;
+  background-position: center;
+  background-repeat: no-repeat;
 }

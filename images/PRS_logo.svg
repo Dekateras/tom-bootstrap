@@ -5,8 +5,8 @@
    version="1.1"
    id="svg2"
    width="558.85071"
-   height="383.68976"
-   viewBox="0 0 558.85071 383.68976"
+   height="304.92963"
+   viewBox="0 0 558.85071 304.92963"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
   <defs
@@ -70,9 +70,10 @@
   </defs>
   <g
      id="g10"
-     transform="matrix(1.3333333,0,0,-1.3333333,-56.184757,564.00301)">
+     transform="matrix(1.3333333,0,0,-1.3333333,-42.474922,622.58139)">
     <g
-       id="g12">
+       id="g12"
+       transform="translate(-10.282376,43.933789)">
       <g
          id="g14"
          clip-path="url(#clipPath18)">
@@ -89,7 +90,8 @@
       </g>
     </g>
     <g
-       id="g44">
+       id="g44"
+       transform="translate(-10.282376,43.933789)">
       <g
          id="g46"
          clip-path="url(#clipPath50)">
